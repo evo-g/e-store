@@ -7,7 +7,7 @@ export default class Details extends Component {
   render() {
     return (
       <ProductConsumer>
-        {(value) =>{
+        {value => {
           const {
             id, 
             company, 
