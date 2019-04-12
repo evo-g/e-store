@@ -14,6 +14,7 @@ body {
 
 .text-title {
   font-family: 'Sniglet', cursive;
+  word-wrap: break-word;
   letter-spacing: 0.3rem;
   text-transform: uppercase;
 }
